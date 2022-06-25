@@ -29,4 +29,4 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # 也就是我们刚才生成的 secret
           BRANCH: docs # 部署到 docs 分支
-          FOLDER: docs/.vuepress/dist # vuepress 生成的静态文件存放的地方
+          FOLDER: src/.vuepress/dist # vuepress 生成的静态文件存放的地方
