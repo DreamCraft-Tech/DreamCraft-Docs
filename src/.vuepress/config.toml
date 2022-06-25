@@ -1,7 +1,7 @@
 title = 'DreamCraft Docs'
 description = 'DreamCraft Docs'
 evergreen = true
-base = '/'
+base = './'
 
 
 [locales]
@@ -20,6 +20,13 @@ label = '简体中文'
 docsDir = 'src'
 editLinkText = '在 Github 上提交更改'
 lastUpdated = '最后更新'
+
+[themeConfig.locales.'/en/']
+selectText = 'Language'
+label = 'English'
+docsDir = 'src/en'
+editLinkText = 'Commit Changes on Github'
+lastUpdated = 'Last updated on'
 
 [[themeConfig.locales.'/'.nav]]
 text = 'Web Service'
