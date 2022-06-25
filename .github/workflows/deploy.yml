@@ -11,8 +11,8 @@ jobs:
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: DreamCraft-Tech/DreamCraft-Docs
-        TARGET_BRANCH: docs
+        TARGET_REPO: DreamCraft-Tech/DreamCraft-Docs-Build
+        TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn docs:build
         BUILD_DIR: docs/.vuepress/dist/
         CNAME: docs.dreamcraft.com.cn
