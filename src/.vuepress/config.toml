@@ -1,5 +1,8 @@
 title = 'DreamCraft Docs'
 description = 'DreamCraft Docs'
+evergreen = true
+base = '/'
+
 
 [locales]
 '/' = { lang = 'zh-CN', title = 'DreamCraft 用户手册' }
