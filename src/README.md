@@ -1,4 +1,4 @@
-<script src="/sakura/SakuraFalls.js"></script>
+<script src="./sakura/SakuraFalls.js"></script>
 
 # Hello VuePress
 
