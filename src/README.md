@@ -1,3 +1,5 @@
+<script src="/sakura/SakuraFalls.js"></script>
+
 # Hello VuePress
 
 这是 DreamCraft Community 的文档页面。
