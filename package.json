@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "vuepress": "^1.9.7"
+  },
+  "devDependencies": {
+    "vuepress-plugin-mathjax": "^1.2.8"
   }
 }
