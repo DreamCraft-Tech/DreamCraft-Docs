@@ -43,7 +43,8 @@ module.exports = {
                         items:[
                             { text:'Web Service',link:'/'},
                             { text:'Launcher',link:'/launcher/'},
-                            { text:'Mirrors',link:'/mirrors/'}
+                            { text:'Mirrors',link:'/mirrors/'},
+                            { text:'Heritane-Project',link:'/heritane-project/'},
                         ]
                     }
                 ]
